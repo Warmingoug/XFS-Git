@@ -13,6 +13,7 @@
 		3AFD4FD82BB27306002C1A47 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AFD4FD62BB27306002C1A47 /* Main.storyboard */; };
 		3AFD4FDA2BB27307002C1A47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AFD4FD92BB27307002C1A47 /* Assets.xcassets */; };
 		3AFD4FDD2BB27307002C1A47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AFD4FDB2BB27307002C1A47 /* LaunchScreen.storyboard */; };
+		3AFD4FE72BB2744C002C1A47 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3AFD4FE62BB2744C002C1A47 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3AFD4FD92BB27307002C1A47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AFD4FDC2BB27307002C1A47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3AFD4FDE2BB27307002C1A47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AFD4FE62BB2744C002C1A47 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		3AFD4FC42BB27306002C1A47 = {
 			isa = PBXGroup;
 			children = (
+				3AFD4FE62BB2744C002C1A47 /* .gitignore */,
 				3AFD4FCF2BB27306002C1A47 /* XFS-Git */,
 				3AFD4FCE2BB27306002C1A47 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3AFD4FE72BB2744C002C1A47 /* .gitignore in Resources */,
 				3AFD4FDD2BB27307002C1A47 /* LaunchScreen.storyboard in Resources */,
 				3AFD4FDA2BB27307002C1A47 /* Assets.xcassets in Resources */,
 				3AFD4FD82BB27306002C1A47 /* Main.storyboard in Resources */,
